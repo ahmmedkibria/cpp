@@ -1,6 +1,3 @@
-#include<iostream>
-#include <algorithm> // Required for sort()
-using namespace std;
 
 // prac prob : Make a class named Student.
 //Write a program to take a positive integer N as input and make an Student array of size N.
@@ -10,6 +7,13 @@ using namespace std;
 //If multiple students have the same marks then sort them according to the roll in ascending
 //order as the roll will be unique.
 //Note: name will not contain any spaces.
+
+
+
+#include<iostream>
+#include <algorithm> // Required for sort()
+using namespace std;
+
 
 class Student {
 public:

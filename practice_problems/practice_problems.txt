@@ -1,1 +1,13 @@
+1. 2. Replace word from sentence with given string X
 
+    input:
+    3
+    helloworld wor
+    mynameisatiqisatiq is
+    phitronisgoodphitronisgood good
+
+
+    output: 
+    hello@ld
+    myname@atiq@atiq
+    phitronis@phitronis@

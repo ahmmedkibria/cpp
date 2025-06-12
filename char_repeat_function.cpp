@@ -1,3 +1,5 @@
+
+
 // code forces : H. N Times
 // Given a number 𝑁 and a character 𝐶. Print the character(𝐶) 𝑁 times.
 

@@ -1,4 +1,4 @@
-1. 2. Replace word from sentence with given string X
+1. Replace word from sentence with given string X
 
     input:
     3
